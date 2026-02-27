@@ -30,11 +30,15 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 2: PM escalates to Product Lead and dependent teams; QA Lead or BA surfaces quality/requirement blockers
+- Level 3: Sponsor-level escalation for business-impacting issues; Operations Lead and CSM notified for customer-impacting incidents
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Design review completed by UX/UI Designer before each feature build starts
+- [ ] QA Lead sign-off obtained before merging features to main/release branch
+- [ ] Ops readiness check completed with Operations Lead before each release candidate
+- [ ] Customer feedback loop active: CSM collecting and relaying feedback each sprint

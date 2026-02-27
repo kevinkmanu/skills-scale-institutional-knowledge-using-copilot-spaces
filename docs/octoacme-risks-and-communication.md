@@ -38,5 +38,10 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level → PM → Product Lead → Sponsor
+- For quality/testing blockers: QA Lead → PM → Product Lead
+- For design/UX blockers: UX/UI Designer → Product Manager → PM
+- For requirements gaps: Business Analyst → Product Manager → PM
+- For operational/infrastructure issues: Operations Lead → PM → Sponsor
+- For customer-impacting issues: Customer Success Manager → PM → Product Lead → Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
