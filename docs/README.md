@@ -11,7 +11,7 @@ OctoAcme follows an iterative, customer-first approach to deliver reliable outco
 - Risks & Communication: Maintain a risk register, assess and mitigate risks, and communicate status and escalations to stakeholders (see Risk Management & Communication).
 - Release & Deployment: Follow pre-release checks, automated deployments where possible, smoke tests, rollback plans, and release notes (see Release & Deployment Guide).
 - Retrospective & Continuous Improvement: Capture learnings after milestones and incidents, convert into action items, and measure improvements (see Retrospective & Continuous Improvement).
-- Roles & Personas: Clear responsibilities for PMs, PdMs, Developers, QA, and Stakeholders (see Roles & Personas).
+- Roles & Personas: Clear responsibilities for PMs, PdMs, Developers, QA Lead, UX/UI Designer, Business Analyst, Operations Lead, Customer Success Manager, and Stakeholders (see Roles & Personas).
 
 ## Process Documents (docs/)
 - Project Management Overview — docs/octoacme-project-management-overview.md
@@ -22,6 +22,7 @@ OctoAcme follows an iterative, customer-first approach to deliver reliable outco
 - Release & Deployment Guide — docs/octoacme-release-and-deployment.md
 - Retrospective & Continuous Improvement — docs/octoacme-retrospective-and-continuous-improvement.md
 - Roles & Personas — docs/octoacme-roles-and-personas.md
+- Cross-Functional Onboarding Checklist — docs/octoacme-cross-functional-onboarding-checklist.md
 
 ## How to use these docs
 - Start here when onboarding to a project: read the Overview and the relevant process guide for the project stage you are owning.
