@@ -11,6 +11,10 @@ After each sprint, release, or important milestone. Also after incidents.
 - What could be improved
 - Action items (owner, due date)
 - Follow-up on previous action items
+- Customer feedback summary (provided by Customer Success Manager)
+- Design / UX learnings (provided by UX/UI Designer)
+- Quality and test coverage review (provided by QA Lead)
+- Ops and deployment debrief (provided by Operations Lead)
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
@@ -31,3 +35,12 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Retrospective Checklist
+- [ ] All roles represented (or asynchronously contributed) in the retrospective
+- [ ] Customer feedback loop reviewed: CSM presents adoption and satisfaction data
+- [ ] Design review findings captured (UX/UI Designer)
+- [ ] Quality metrics and coverage trends reviewed (QA Lead)
+- [ ] Ops and deployment health reviewed: incidents, MTTR, reliability trends (Operations Lead)
+- [ ] Top 2–3 action items assigned with owner and due date
+- [ ] Action items added to project backlog or issue tracker
